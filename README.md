@@ -1,99 +1,97 @@
-<!-- HEADER GELOMBANG ANIMASI -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Halo,%20Saya%20Seorang%20Developer!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technology%20%7C%20Full-Stack%20Web%20%7C%20Data%20%26%20IoT%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Halo,%20Saya%20Seorang%20Developer!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Engineering%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20%26%20Mobile%20Dev&descAlignY=58&descSize=18" width="100%" />
 </div>
 
-<!-- ANIMASI TEKS MENGETIK (TYPING SVG) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Development+(Python+Flask+%26+Next.js);Database+Architecture+%26+Administration+(Snowflake+%26+SQL);Decision+Support+Systems+%26+Algorithmic+Modeling;IoT+Prototyping+%26+Microcontroller+Engineering+(ESP32+%2F+ESP8266)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Mahasiswa+Teknik+Informatika+Universitas+Tarumanagara;Peminatan+Machine+Learning+%26+Software+Development;Web+%26+Mobile+Developer+(Next.js,+Node.js,+Laravel,+Flutter);Selalu+Siap+Menghadapi+Tantangan+%26+Hal+Baru!" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- TENTANG SAYA & GIF CODING -->
-<img align="right" alt="Coding Animation" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding Animation" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 Tentang Saya
 
-- 🎓 Mahasiswa **Teknologi Informasi** di **Universitas Tarumanagara** dengan fokus pada pengembangan perangkat lunak, sistem pendukung keputusan (*Decision Support Systems*), dan sistem basis data.
-- ⚙️ Senang bekerja secara *hands-on* mulai dari membangun REST API di *backend*, merancang skema relasional & *cloud data warehouse*, hingga merakit sirkuit mikrokontroler.
-- 🐧 Terbiasa bekerja di lingkungan **Ubuntu Linux CLI** (VirtualBox) untuk manajemen server dan administrasi basis data **Snowflake**.
-- 💡 Tertarik pada eksplorasi tata cahaya arsitektural (*lighting simulation*) dan bagaimana teknologi perangkat keras berinteraksi dengan ruang fisik.
+- 🎓 Mahasiswa aktif **Teknik Informatika** di **Universitas Tarumanagara** (Angkatan 2024) dengan fokus peminatan di bidang **Machine Learning**.
+- 💻 Memiliki ketertarikan tinggi pada **Software Development**, **Mobile Programming**, dan **Website Maintenance**, serta berpengalaman membangun aplikasi web untuk UMKM dan komunitas.
+- 🤝 Senang mempelajari hal baru, terbiasa menganalisis serta menyelesaikan masalah teknis (*troubleshooting*), dan mampu bekerja sama maupun berkomunikasi dengan baik di dalam tim.
 
 <br clear="both"/>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Kemampuan & Tech Stack
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><b>🌐 Web & Backend</b></td>
-    <td align="center" width="33%"><b>🗄️ Database & Sistem</b></td>
-    <td align="center" width="33%"><b>🔌 Hardware, IoT & Desain</b></td>
+    <td align="center" width="33%"><b>💻 Bahasa Pemrograman</b></td>
+    <td align="center" width="33%"><b>🚀 Framework & Database</b></td>
+    <td align="center" width="33%"><b>⚙️ Bidang & Tools Lainnya</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,flask,nextjs,react,js,html,css&perline=4" alt="Web Stack" />
+      <img src="https://skillicons.dev/icons?i=py,js,php,java,cpp,html,css&perline=4" alt="Languages" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,ubuntu,bash,git,github&perline=4" alt="DB & OS Stack" />
-      <br/>
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+      <img src="https://skillicons.dev/icons?i=nextjs,nodejs,laravel,flutter,mongodb,mysql&perline=3" alt="Frameworks & DB" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=arduino,cpp,vscode&perline=4" alt="Hardware Stack" />
-      <br/>
-      <img src="https://img.shields.io/badge/ESP32_%2F_ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP" />
-      <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" /><br/>
+      <img src="https://img.shields.io/badge/Network_Simulation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Network" /><br/>
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+      <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Office" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Proyek Unggulan (Featured Projects)
+### 🌐 Proyek & Portofolio Web
 
-<div align="center">
-  <!-- KARTU REPO OTOMATIS: DSS POKEMON -->
-  <a href="https://github.com/Sekem17/dss-pokemon-ahp-borda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sekem17&repo=dss-pokemon-ahp-borda&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="DSS Pokemon AHP Borda" />
-  </a>
-</div>
+Berikut adalah beberapa proyek pengembangan website yang telah saya bangun dan sudah *live* (dapat diakses langsung):
 
-- 📊 **Decision Support System (AHP & Borda)** — Aplikasi web *full-stack* menggunakan **Python Flask** dan **Next.js** yang mengimplementasikan algoritma *Analytical Hierarchy Process* (AHP) dan metode *Borda* untuk pemeringkatan dan analisis statistik kartu/entitas Pokémon.
-- 💡 **Smart IoT Lighting & Sensing** — Prototipe perangkat keras meliputi sistem peredup (*dimmer*) LED Strip 12V berbasis sinyal PWM menggunakan **Wemos D1 Mini (ESP8266)** dengan isolasi optokopler MOSFET D4184, serta rancang bangun *Luxmeter* digital berbasis **ESP32** dan sensor **BH1750 / LDR**.
-- 🗄️ **Relational Database Architecture & Cloud DW** — Perancangan skema basis data konseptual, logikal, dan fisikal (ERD) untuk sistem manajemen penyewaan armada, serta pengelolaan data terdistribusi menggunakan **Snowflake CLI** di atas Ubuntu LTS.
+| Nama Proyek | Periode | Deskripsi | Live Demo |
+| :--- | :--- | :--- | :---: |
+| **🍗 Website POS UMKM (FnB)** | Feb – Jul 2026 | Membangun sistem *Point of Sale* (POS) berbasis web untuk membantu digitalisasi operasional dan transaksi UMKM di bidang kuliner. | [![Vercel](https://img.shields.io/badge/Buka_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://softdev-ayam.vercel.app) |
+| **🎱 Landing Page @biliard.positif** | Agu – Des 2025 | Merancang dan mengembangkan website *landing page* profil untuk komunitas biliar `@biliard.positif`. | [![Vercel](https://img.shields.io/badge/Buka_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bilpos.vercel.app) |
+
+---
+
+### 💼 Pengalaman Kerja
+
+- 🎮 **PT Ariesta Niaga Gemilang** *(Januari 2026 – Sekarang)*
+  - Menawarkan dan menjual berbagai produk konsol *gaming* (PS5, Nintendo, Xbox) beserta perangkat lunaknya.
+  - Menganalisis dan memberikan solusi atas kendala teknis yang dialami oleh pengguna (*user troubleshooting*).
+- 🎬 **Freelance — Onebox Films** *(Januari 2026 – Februari 2026)*
+  - Mengoperasikan perangkat *Eartec* dan memastikan seluruh sistem komunikasi antar kru berjalan lancar selama proses *shooting* berlangsung.
 
 ---
 
 ### 📈 Statistik & Aktivitas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sekem17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sekem17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sekem17&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🐍 Grafik Kontribusi
 
-<!-- Pastikan Anda sudah mengaktifkan GitHub Actions snake.yml agar animasi di bawah ini muncul -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sekem17/Sekem17/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sekem17/Sekem17/output/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Sekem17/Sekem17/output/dist/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_ANDA/USERNAME_ANDA/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_ANDA/USERNAME_ANDA/output/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/USERNAME_ANDA/USERNAME_ANDA/output/dist/github-snake.svg" />
   </picture>
 </div>
 
-<!-- FOOTER GELOMBANG ANIMASI -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" width="100%" />
 </div>
