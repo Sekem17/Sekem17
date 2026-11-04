@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Halo,%20Saya%20Seorang%20Developer!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Engineering%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20%26%20Mobile%20Dev&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Halo,%20Saya%20Seorang%20Developer!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Engineering%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Web%20Dev&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Mahasiswa+Teknik+Informatika+Universitas+Tarumanagara;Peminatan+Machine+Learning+%26+Software+Development;Web+%26+Mobile+Developer+(Next.js,+Node.js,+Laravel,+Flutter);Selalu+Siap+Menghadapi+Tantangan+%26+Hal+Baru!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Mahasiswa+Teknik+Informatika+Universitas+Tarumanagara;Peminatan+Machine+Learning+dan+Software+Development;Web+dan+Mobile+Developer+(Next.js,+Node.js,+Laravel,+Flutter);Selalu+Siap+Menghadapi+Tantangan+dan+Hal+Baru!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -72,24 +72,16 @@ Berikut adalah beberapa proyek pengembangan website yang telah saya bangun dan s
 ### 📈 Statistik & Aktivitas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sekem17&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sekem17&theme=tokyonight" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sekem17&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
 </div>
 
----
-
-### 🐍 Grafik Kontribusi
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_ANDA/USERNAME_ANDA/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_ANDA/USERNAME_ANDA/output/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/USERNAME_ANDA/USERNAME_ANDA/output/dist/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sekem17&theme=tokyo-night&hide_border=true&bg_color=0f172a" width="95%" alt="Activity Graph" />
 </div>
 
 <div align="center">
