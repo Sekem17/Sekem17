@@ -80,20 +80,24 @@ Berikut adalah beberapa proyek pengembangan website yang telah saya bangun dan s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sekem17&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
 </div>
 
+<!-- GRAFIK AKTIVITAS (Menggunakan server yang sama dengan Stats di atas agar 100% muncul) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sekem17&theme=tokyo-night&hide_border=true&bg_color=0f172a" width="95%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sekem17&theme=tokyonight" width="95%" alt="Profile Details" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" width="100%" />
-</div>
+---
 
 ### 🐍 Grafik Kontribusi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sekem17/Sekem17/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sekem17/Sekem17/output/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Sekem17/Sekem17/output/dist/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sekem17/Sekem17/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sekem17/Sekem17/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sekem17/Sekem17/output/github-snake.svg" />
   </picture>
+</div>
+
+<!-- FOOTER GELOMBANG ANIMASI (Wajib di paling bawah!) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" width="100%" />
 </div>
