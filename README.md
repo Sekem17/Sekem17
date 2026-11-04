@@ -87,3 +87,13 @@ Berikut adalah beberapa proyek pengembangan website yang telah saya bangun dan s
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" width="100%" />
 </div>
+
+### 🐍 Grafik Kontribusi
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sekem17/Sekem17/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sekem17/Sekem17/output/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sekem17/Sekem17/output/dist/github-snake.svg" />
+  </picture>
+</div>
